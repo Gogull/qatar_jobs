@@ -1,4 +1,4 @@
 streamlit
-httpx
+httpx[http2]
 pandas
 openpyxl
