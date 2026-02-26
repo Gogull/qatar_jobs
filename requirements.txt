@@ -2,3 +2,6 @@ streamlit
 httpx[http2]
 pandas
 openpyxl
+telethon
+pdfplumber
+openpyxl
